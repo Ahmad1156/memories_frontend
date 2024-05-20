@@ -1,2 +1,2 @@
 deployed memories_app :
-https://fascinating-starship-0431fd.netlify.app/posts
+https://fascinating-starship-0431fd.netlify.app
